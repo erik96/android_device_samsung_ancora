@@ -163,7 +163,6 @@ BOARD_VOLD_MAX_PARTITIONS := 28
 TARGET_RECOVERY_INITRC := device/samsung/ancora/config/init.recovery.rc
 TARGET_RECOVERY_FSTAB := device/samsung/ancora/config/fstab.qcom
 BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/samsung/ancora/recovery/recovery_keys.c
-BOARD_CUSTOM_GRAPHICS := ../../../device/samsung/ariesve/recovery/graphics.c
 
 # TWRP recovery stuff
 BOARD_HAS_SDCARD_INTERNAL := true
